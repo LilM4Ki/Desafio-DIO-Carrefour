@@ -1,2 +1,2 @@
-# Desafio-DIO-Carrefour
-Atividades do Desafio DIO Carrefour
+# Desafio DIO Carrefour
+##📖Atividades do Desafio DIO Carrefour
