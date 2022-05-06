@@ -46,6 +46,7 @@ header nav a:hover{
     font-size: 16px;
     background-image:linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50) 100%), url('../img/koe-no-katachi-fundo.jpg');
     height: 500px;
+    background-position-y: 45% ;
     background-size:cover;
     display: flex;
     flex-direction: column;
@@ -82,4 +83,18 @@ header nav a:hover{
 
 .botao i{
     margin-right: 8px;
+}
+
+.container{
+    margin-left: 30px;
+}
+
+.filme-principal .container{
+    width: 50%;
+}
+
+.box-filme{
+    height: 100%;
+    width: 100%;
+    display: block;
 }
